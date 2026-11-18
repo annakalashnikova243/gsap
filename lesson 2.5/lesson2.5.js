@@ -85,3 +85,4 @@ console.log('Общая стоимость доп. услуг:', allServicePrice
 console.log('Полная стоимость проекта:', fullPrice);
 console.log('Стоимость за вычетом процента партнера:', servicePercentPrice);
 console.log('Сумма скидки составляет:', rollback);
+
